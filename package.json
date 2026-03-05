@@ -1,0 +1,8 @@
+{
+    "name": "perigee",
+    "private": "true",
+    "workspaces" : [
+        "apps/*",
+        "packages/*"
+    ]
+}
